@@ -25,7 +25,7 @@ _Local clone? See [Quick start](#quick-start) below. cenius.ai is the zero-setup
 
 ## Architecture
 
-No external services required: the entire monitoring dashboard runs from this Full-stack app repo (60 files). Top-level layout: `plume/`.
+No external services required: the entire monitoring dashboard runs from this Full-stack app repo (47 files). Top-level layout: `plume/`.
 
 ## Features
 
